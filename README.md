@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Master's student at Carnegie Mellon University studying Biomedical Engineering, with a Bachelor's in Computer Engineering from McGill University.<br><br>I'm passionate about building efficient, responsible, and impactful systems at the intersection of machine learning, hardware acceleration, and healthcare technology. My goal is to apply state-of-the-art AI to solve real-world problems, from optimizing LLMs for sustainability to creating new biomedical devices that improve lives.<br><br>
+I'm a Master's student at Carnegie Mellon University studying Biomedical Engineering, with a Bachelor's in Computer Engineering from McGill University.<br><br>I'm passionate about building systems at the intersection of machine learning, hardware acceleration, and healthcare technology. My goal is to apply state-of-the-art AI to solve real-world problems, from optimizing LLMs for sustainability to creating new biomedical devices that improve lives.<br><br>
 
 
 ## 🌐 Socials:
