@@ -1,6 +1,19 @@
 # 💫 About Me:
 I'm a Master's student at Carnegie Mellon University studying Biomedical Engineering, with a Bachelor's in Computer Engineering from McGill University.<br><br>I'm passionate about building systems at the intersection of machine learning, hardware acceleration, and healthcare technology. My goal is to apply state-of-the-art AI to solve real-world problems, from optimizing LLMs for sustainability to creating new biomedical devices that improve lives.<br><br>
 
+## Projects:
+
+## 📂 Repository Index
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--: |
+| **Feature Matching & Stitching** | Harris Corner Detection, SIFT feature matching, and RANSAC-based panoramic stitching | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | [View](https://drive.google.com/file/d/1AEGAyOLQvpiQQwKZfp4addspt2IfaK82/view?usp=sharing) |
+| **Classifiers & Object Detection** | MNIST digit classification (SVM/Random Forest) and YOLOv5 street scene detection | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white) ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?logo=yolo&logoColor=black) | [View]((https://colab.research.google.com/drive/16tayJhc0xidI_qhsdNbiG_HqtdpbQNcC?usp=sharing)) |
+| **Semantic Image Segmentation** | Deep learning segmentation (U-Net/DeepLabV3) for the Oxford-IIIT Pets dataset | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | [View]([LINK_HERE](https://github.com/sofiavelasquezsierra/Image-Segmentation)) |
+| **TinyLlama Optimization** | **Capstone:** Optimization of the TinyLlama model for efficient language processing tasks. | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) | [View](LINK_HERE) |
+| **Parkinson's Exoskeleton** | Wearable exoskeleton development for tremor detection and mitigation. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) | [View](LINK_HERE) |
+| **Combat Injury Triage** | Automated triage system for combat injury assessment and prioritization. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=google&logoColor=white) | [View]((https://github.com/sofiavelasquezsierra/42401-BMEDesign)) |
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofia-velasquez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svelasque@andrew.cmu.edu) 
