@@ -3,8 +3,6 @@ I'm a Master's student at Carnegie Mellon University studying Biomedical Enginee
 
 ## Projects:
 
-## 📂 Repository Index
-
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--: |
 | **Feature Matching & Stitching** | Harris Corner Detection, SIFT feature matching, and RANSAC-based panoramic stitching | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | [View](https://drive.google.com/file/d/1AEGAyOLQvpiQQwKZfp4addspt2IfaK82/view?usp=sharing) |
